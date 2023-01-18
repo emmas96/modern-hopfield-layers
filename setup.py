@@ -8,7 +8,7 @@ setuptools.setup(
     version=r'1.0.2',
     author=r'Bernhard Schäfl',
     author_email=r'schaefl@ml.jku.at',
-    url=r'https://github.com/ml-jku/hopfield-layers',
+    url=r'https://https://github.com/emmas96/modern-hopfield-layers',
     description=r'Continuous modern Hopfield layers for Deep Learning architectures',
     long_description=long_description,
     long_description_content_type=r'text/markdown',
